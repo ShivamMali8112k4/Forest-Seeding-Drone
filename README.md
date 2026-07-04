@@ -43,6 +43,14 @@ This project focuses on combining drone technology, embedded systems, and automa
 
 ---
 
+# Hardware Circuit Diagram
+
+This is the complete wiring diagram of the Forest Seeding Drone.
+
+![Forest Seeding Drone](images/circuit_diagram.png)
+
+---
+
 # 💻 Software & Tools
 - 🖥️ Mission Planner
 - 💡 Arduino IDE
